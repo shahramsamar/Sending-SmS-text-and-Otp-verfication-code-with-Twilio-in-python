@@ -124,7 +124,6 @@
 <!-- - [Python Requests Library](https://requests.readthedocs.io/) - For seamless HTTP requests to Twilio's API. -->
 
 <!-- --- -->
-![Alt](https://repobeats.axiom.co/api/embed/eabe6508a91fa38b4ace0060919094363916f544.svg "Repobeats analytics image")
 
 <!-- Happy coding! 🚀 -->
 
