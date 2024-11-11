@@ -4,9 +4,9 @@ import os
 
 load_dotenv()
 
-account_sid = os.getenv('account_sid')
-auth_token = os.getenv('auth_token')
-phone_number = os.getenv('PHONE_NUMBER')
+account_sid = os.getenv('env_account_sid')
+auth_token = os.getenv('env_auth_token')
+phone_number = os.getenv('env_phone_number')
 
 client = Client(account_sid, auth_token)
 
