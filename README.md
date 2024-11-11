@@ -1,23 +1,22 @@
-<!-- # Sending SMS Text and OTP Verification Code with Twilio in Python -->
+# Sending SMS Text and OTP Verification Code with Twilio in Python 
 
-<!-- ![Python](https://img.shields.io/badge/Python-3.6%2B-blue) -->
-<!-- ![License](https://img.shields.io/badge/License-MIT-green) -->
-<!-- ![Twilio](https://img.shields.io/badge/Twilio-SMS-red) -->
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Twilio](https://img.shields.io/badge/Twilio-SMS-red)
 
-<!-- This repository provides a Python-based implementation for sending SMS text messages and OTP (One-Time Password) verification codes using the Twilio API. Perfect for integrating two-factor authentication (2FA) or SMS notifications in your Python applications. -->
+ This repository provides a Python-based implementation for sending SMS text messages and OTP (One-Time Password) verification codes using the Twilio API. Perfect for integrating two-factor authentication (2FA) or SMS notifications in your Python applications. 
 
-<!-- ## 📜 Features -->
+ ## 📜 Features 
 
-<!-- - **Send SMS Text Messages**: Easily send SMS to any mobile number. -->
-<!-- - **Generate OTP Codes**: Securely generate and send OTP codes. -->
-<!-- - **OTP Verification**: Validate OTP codes entered by the user. -->
+- **Send SMS Text Messages**: Easily send SMS to any mobile number. 
+- **Generate OTP Codes**: Securely generate and send OTP codes. 
+- **OTP Verification**: Validate OTP codes entered by the user. 
+## 📋 Prerequisites 
 
-<!-- ## 📋 Prerequisites -->
+ Before running the project, ensure you have: 
 
-<!-- Before running the project, ensure you have: -->
-
-<!-- 1. Python 3.6 or higher. -->
-<!-- 2. A [Twilio](https://www.twilio.com/) account with: -->
+1. Python 3.6 or higher. -->
+<!-- 2. A [Twilio](https://www.twilio.com) account with:
 <!--    - Account SID -->
 <!--    - Auth Token -->
 
